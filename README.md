@@ -20,4 +20,4 @@ Api realizada con asp core api
 
 # nota
 1. dentro de la raiz de este proyecto se encuentra un backup de la base de datos
-2. 
+2. en el json de este proyecto se puede encontrar el connectionString para lograr conectar la base de datos, todo lo hace mediante entityFramewok para mapear sql server
